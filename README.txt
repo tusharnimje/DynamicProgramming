@@ -7,3 +7,11 @@ Solve the problem step by step from base case.
 
 Divide top into sub-problems till base-case.
 Solve sub-problems and use result in solving main problem
+
+
+
+Which problem can be solved using Dynamic Prograaming
+
+1. Overlapping subproblem: If solving same problem, multiple times. E.g. Fibbonacci number
+
+2. Optimum Substructure:   If optimum solution can be derived from its sub-problems.
